@@ -76,7 +76,7 @@ currently: building JobScout, a self-hosted job-search agent
 ### 📊 GitHub stats
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=divyanshu2003singh&show_icons=true&hide_border=true&theme=github_dark&count_private=true&include_all_commits=true" alt="GitHub stats"/>
+  <img height="165" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=divyanshu2003singh&theme=github_dark" alt="GitHub stats"/>
   <img height="165" src="https://streak-stats.demolab.com?user=divyanshu2003singh&hide_border=true&theme=github-dark-blue" alt="GitHub streak"/>
 </div>
 
